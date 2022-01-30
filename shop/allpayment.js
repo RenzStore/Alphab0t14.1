@@ -1,27 +1,27 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY RENZZ STORE
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ gapunya kaks:v
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ gapunya kaks:v
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ gapunya kaks:v
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ gapunya kaks:v
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0831 9712 1917
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0831 9712 1917
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0831 9712 1917
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama R*******RE
 
 *📲 PULSA*
 
