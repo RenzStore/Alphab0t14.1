@@ -26,14 +26,14 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
-♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+⛎ Api : https://rest-api-renz-botz.herokuapp.com/api
+♈ YouTube : https://www.youtube.com/channel/UCOaRY0XWVIRnslwhNCx2TXQ
+♉ Github : https://github.com/RenzStore
+♊ Instagram : instagram.com/renzz_store19
+♋ Tiktok : tiktok.com/@mrenditrikurnia
+♌ Telegram : gapunya
+♎ Ch Telegram : gapunya
+♏ WhatsApp : https://bit.ly/3GeKnwU
 `}
 
 exports.infobot = infobot
